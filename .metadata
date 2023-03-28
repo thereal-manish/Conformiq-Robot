@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?conformiq-designer-gen 1680013371128?><metadata creator_asset_version="9">
+  <mapping key="checkpoint-group:ad-control-flow._9Ul6wM1zEe2GCqIHMEDKug">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Diagram 'Activity Diagram'</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">ad-control-flow</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint-group:ad-node._9Ul6wM1zEe2GCqIHMEDKug">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Diagram 'Activity Diagram'</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">ad-node</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint:ad-control-flow._9Ul6wM1zEe2GCqIHMEDKug.__1DsYM1zEe2GCqIHMEDKug">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">type</qmlstring>
+        <qmlstring type="String">ad-control-flow</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Business Activity 'Business Activity Node 1' -&gt; Flow Final 'Flow Final Node 1'</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">location</qmlstring>
+        <qmlarray type="[]">
+          <qmlarray type="[]">
+            <qmlstring type="String">Activity Diagram.ad#__1DsYM1zEe2GCqIHMEDKug</qmlstring>
+            <qmlstring type="String"/>
+            <qmlstring type="String">Business Activity 'Business Activity Node 1' -&gt; Flow Final 'Flow Final Node 1'</qmlstring>
+          </qmlarray>
+        </qmlarray>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.source</qmlstring>
+        <qmlstring type="String">ad-node._9Ul6wM1zEe2GCqIHMEDKug._-So3YM1zEe2GCqIHMEDKug</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.target</qmlstring>
+        <qmlstring type="String">ad-node._9Ul6wM1zEe2GCqIHMEDKug._-oWBoM1zEe2GCqIHMEDKug</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.label</qmlstring>
+        <qmlstring type="String"/>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">ad-control-flow._9Ul6wM1zEe2GCqIHMEDKug</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint:ad-control-flow._9Ul6wM1zEe2GCqIHMEDKug.__SoUwM1zEe2GCqIHMEDKug">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">type</qmlstring>
+        <qmlstring type="String">ad-control-flow</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Initial -&gt; Business Activity 'Business Activity Node 1'</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">location</qmlstring>
+        <qmlarray type="[]">
+          <qmlarray type="[]">
+            <qmlstring type="String">Activity Diagram.ad#__SoUwM1zEe2GCqIHMEDKug</qmlstring>
+            <qmlstring type="String"/>
+            <qmlstring type="String">Initial -&gt; Business Activity 'Business Activity Node 1'</qmlstring>
+          </qmlarray>
+        </qmlarray>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.source</qmlstring>
+        <qmlstring type="String">ad-node._9Ul6wM1zEe2GCqIHMEDKug._94qRIM1zEe2GCqIHMEDKug</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.target</qmlstring>
+        <qmlstring type="String">ad-node._9Ul6wM1zEe2GCqIHMEDKug._-So3YM1zEe2GCqIHMEDKug</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">ad-control-flow.label</qmlstring>
+        <qmlstring type="String"/>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">ad-control-flow._9Ul6wM1zEe2GCqIHMEDKug</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint:ad-node._9Ul6wM1zEe2GCqIHMEDKug._-So3YM1zEe2GCqIHMEDKug">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">type</qmlstring>
+        <qmlstring type="String">ad-node</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Business Activity 'Business Activity Node 1'</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">location</qmlstring>
+        <qmlarray type="[]">
+          <qmlarray type="[]">
+            <qmlstring type="String">Activity Diagram.ad#_-So3YM1zEe2GCqIHMEDKug</qmlstring>
+            <qmlstring type="String"/>
+            <qmlstring type="String">Business Activity 'Business Activity Node 1'</qmlstring>
+          </qmlarray>
+        </qmlarray>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">ad-node._9Ul6wM1zEe2GCqIHMEDKug</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint:ad-node._9Ul6wM1zEe2GCqIHMEDKug._-oWBoM1zEe2GCqIHMEDKug">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">type</qmlstring>
+        <qmlstring type="String">ad-node</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Flow Final 'Flow Final Node 1'</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">location</qmlstring>
+        <qmlarray type="[]">
+          <qmlarray type="[]">
+            <qmlstring type="String">Activity Diagram.ad#_-oWBoM1zEe2GCqIHMEDKug</qmlstring>
+            <qmlstring type="String"/>
+            <qmlstring type="String">Flow Final 'Flow Final Node 1'</qmlstring>
+          </qmlarray>
+        </qmlarray>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">ad-node._9Ul6wM1zEe2GCqIHMEDKug</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="checkpoint:ad-node._9Ul6wM1zEe2GCqIHMEDKug._94qRIM1zEe2GCqIHMEDKug">
+    <qmlarray type="[]">
+      <qmlarray type="[]">
+        <qmlstring type="String">type</qmlstring>
+        <qmlstring type="String">ad-node</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">name</qmlstring>
+        <qmlstring type="String">Initial</qmlstring>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">location</qmlstring>
+        <qmlarray type="[]">
+          <qmlarray type="[]">
+            <qmlstring type="String">Activity Diagram.ad#_94qRIM1zEe2GCqIHMEDKug</qmlstring>
+            <qmlstring type="String"/>
+            <qmlstring type="String">Initial</qmlstring>
+          </qmlarray>
+        </qmlarray>
+      </qmlarray>
+      <qmlarray type="[]">
+        <qmlstring type="String">group</qmlstring>
+        <qmlstring type="String">ad-node._9Ul6wM1zEe2GCqIHMEDKug</qmlstring>
+      </qmlarray>
+    </qmlarray>
+  </mapping>
+  <mapping key="portinfo:inbound:input_port">
+    <qmlarray type="[]">
+      </qmlarray>
+  </mapping>
+  <mapping key="portinfo:outbound:output_port">
+    <qmlarray type="[]">
+      </qmlarray>
+  </mapping>
+  <qmlrecordtype name="Creator_Trace_Value">
+    <fieldtype name="serialized" type="String"/>
+  </qmlrecordtype>
+  <qmlrecordtype name="External_Output">
+    </qmlrecordtype>
+  <qmlrecordtype name="Inp_business_activity adqmle8794e3fc7bf421ba0feec301d3908b7_xmi_5F_2DSo3YM1zEe2GCqIHMEDKug_q_P">
+    </qmlrecordtype>
+  <qmlrecordtype name="Inp_business_and_implicit adqmle8794e3fc7bf421ba0feec301d3908b7_xmi_5F_2DSo3YM1zEe2GCqIHMEDKug_q_P">
+    </qmlrecordtype>
+  <qmlrecordtype name="Inp_business_when_implicit adqmle8794e3fc7bf421ba0feec301d3908b7_xmi_5F_2DSo3YM1zEe2GCqIHMEDKug_q_P">
+    </qmlrecordtype>
+  <qmlstringtype name="String"/>
+  <qmlbooleantype name="boolean"/>
+  <qmlbooleantype name="boolean?"/>
+  <qmlnumbertype name="byte"/>
+  <qmlnumbertype name="char"/>
+  <qmlnumbertype name="char?"/>
+  <qmlnumbertype name="double"/>
+  <qmlnumbertype name="double?"/>
+  <qmlnumbertype name="float"/>
+  <qmlnumbertype name="float?"/>
+  <qmlnumbertype name="int"/>
+  <qmlnumbertype name="int?"/>
+  <qmlnumbertype name="long"/>
+  <qmlnumbertype name="long?"/>
+  <qmlnumbertype name="short"/>
+  <qmlnumbertype name="short?"/>
+</metadata>
